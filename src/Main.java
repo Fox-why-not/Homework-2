@@ -44,6 +44,6 @@ public class Main {
         System.out.println("Всего в компании работает - " + NumberOfEmployers + " Человек.");
         var NumbTeoreticEmployers= NumberOfEmployers + 94;
 var NewTotalTime=NumbTeoreticEmployers * 8;
-System.out.println("Если в компании работает " + NumbTeoreticEmployers + " Человек, то всего " + NewTotalTime + " Часоа работы может быть поделено между сотрудниками");
+System.out.println("Если в компании работает " + NumbTeoreticEmployers + " Человек, то всего " + NewTotalTime + " Часов работы может быть поделено между сотрудниками");
     }
 }
